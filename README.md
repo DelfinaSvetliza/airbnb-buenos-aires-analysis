@@ -63,4 +63,3 @@ Perform exploratory data analysis
 Create clear and effective data visualizations
 Communicate insights for decision-making
 
-![Dashboard Preview](buenosaires-airbnb.png)
